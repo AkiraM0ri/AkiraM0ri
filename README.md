@@ -8,10 +8,11 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraM0ri&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+ <img align="right" src="http://static1.squarespace.com/static/53da8a0fe4b0d5d5360f89d8/t/56159e0ae4b0f890085c4759/1444257295062/?format=1500w" heigth="190">
 
 ##
 <br><br>
-<div style="display: inline-block;">
+
 <h3 align="left">🛠  Tech Stack</h3>
 <p align="left">
   <img align="center" alt="Akira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,8 +23,8 @@
   <img align="center" alt="Akira-Express" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Akira-SQL" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </p>
-  <img align="right" src="http://static1.squarespace.com/static/53da8a0fe4b0d5d5360f89d8/t/56159e0ae4b0f890085c4759/1444257295062/?format=1500w" heigth="190">
-</div>
+ 
+
 
 ##
 
