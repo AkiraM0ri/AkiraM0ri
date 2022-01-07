@@ -23,5 +23,5 @@
   <a href="https://twitter.com/akira75hz" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akira75hz"/></a>
   <a href="https://instagram.com/akira_sw_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="akira_sw_"/></a>
   <a href=https://discord.com" target=" target="sblank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="akira75hz"/></a>
-  
 </p>
+
