@@ -22,7 +22,7 @@
   <img align="center" alt="Akira-Express" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Akira-SQL" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </p>
-  <img align="right" src="http://static1.squarespace.com/static/53da8a0fe4b0d5d5360f89d8/t/56159e0ae4b0f890085c4759/1444257295062/?format=1500w" heigth="250">
+  <img align="right" src="http://static1.squarespace.com/static/53da8a0fe4b0d5d5360f89d8/t/56159e0ae4b0f890085c4759/1444257295062/?format=1500w" heigth="190">
 </div>
 
 ##
