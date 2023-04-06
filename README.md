@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Akira</h1>
+<h1 align="center">Hi, I'm Akira</h1>
 
 <br><br>
 <h3 align="center">⚙️GitHub Analytics</h3>
